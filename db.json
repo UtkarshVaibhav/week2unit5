@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Utkarsh",
+      "dept": "IT",
+      "gender": "Male",
+      "role": "SDE1 ",
+      "salary": "1100000",
+      "id": 1
+    },
+    {
+      "name": "Prakhar",
+      "dept": "Marketing",
+      "gender": "Male",
+      "role": "Sales",
+      "salary": "1200000",
+      "id": 2
+    },
+    {
+      "name": "Prashant",
+      "dept": "HR",
+      "gender": "Male",
+      "role": "EC",
+      "salary": "1300000",
+      "id": 3
+    },
+    {
+      "name": "Sahil",
+      "dept": "Operations",
+      "gender": "Male",
+      "role": "Mang",
+      "salary": "1400000",
+      "id": 4
+    },
+    {
+      "name": "Shivam",
+      "dept": "Finance",
+      "gender": "Male",
+      "role": "Brok",
+      "salary": "1500000",
+      "id": 5
+    },
+    {
+      "name": "xyz",
+      "dept": "Marketing",
+      "gender": "female",
+      "role": "Recep",
+      "salary": "1000000",
+      "id": 6
+    }
+  ]
+}
